@@ -1,1 +1,1 @@
-texto1 modificado
+texto1 cambio conflictivo
